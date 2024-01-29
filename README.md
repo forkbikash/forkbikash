@@ -12,10 +12,3 @@
 <a href="http://dev.to/forkbikash">
   <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" />
 </a>
-
-<br />
-<br />
-
-![Bikash's github stats](https://github-readme-stats.vercel.app/api?username=forkbikash&show_icons=true&hide_border=true)
-<br />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=forkbikash.forkbikash)
