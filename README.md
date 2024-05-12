@@ -1,5 +1,9 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Bikash!
+# Hi there 👋
 
+- 🔭 I’m currently working at Pice
+- 🌱 I tried building [Rev Academy](https://revacademy.forkbikash.com/)
+
+## Links
 <a href="https://www.linkedin.com/in/forkbikash/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
