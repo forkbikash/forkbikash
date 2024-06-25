@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🔭 I’m currently working at Pice
+- 🔭 I’m currently working as a Founding Engineer at Pice(Fintech)
 - 🌱 I tried building [Rev Academy](https://revacademy.forkbikash.com/)
 
 ### Latest Blog Posts
